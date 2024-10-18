@@ -29,7 +29,7 @@ bamboo_ в начале имени переменных окружения до�
 гораздо удобнее, создать файл .env, в котором задать переменные в формате
 
 ```
-bamboo_USER_LOGIN=marketplace@uitests.ru
+bamboo_ALLURE_BASE_URL=[marketplace@uitests.ru](https://allure.local/)
 ```
 
 &nbsp;
